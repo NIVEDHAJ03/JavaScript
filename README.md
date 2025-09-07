@@ -27,6 +27,3 @@ Features
   - Shows summary with balance
   - Stored in localStorage
 <img width="1338" height="635" alt="finance tracker" src="https://github.com/user-attachments/assets/b913026d-be09-4648-bd38-49a919bebbb0" />
-
-  - Shows summary with balance
-  - Stored in localStorage
